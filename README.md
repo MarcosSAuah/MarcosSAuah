@@ -230,6 +230,5 @@ explorando:
 
 [![capsule-render](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&animation=fadeIn)](https://github.com/MarcosSAuah)
 
-*"Los problemas de orden, tiempos y tolerancia al fallo se parecen mucho más entre un almacén y un rack de servidores de lo que parece."*
 
 </div>
