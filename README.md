@@ -192,23 +192,6 @@ Stack: Lambda · EventBridge · IAM
 
 ---
 
-## `> top -stats github`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosSAuah&show_icons=true&theme=transparent&hide_border=true&title_color=e94560&icon_color=e94560&text_color=a8b2d8&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSAuah&layout=compact&theme=transparent&hide_border=true&title_color=e94560&text_color=a8b2d8&bg_color=0d1117" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MarcosSAuah&theme=dark&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&dates=a8b2d8&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/MarcosSAuah)
-
-</div>
-
----
-
 ## `> cat ./intereses_actuales`
 
 ```yaml
